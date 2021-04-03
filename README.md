@@ -8,4 +8,4 @@
 - ⚡ Hobbies: :bicyclist: :tennis: :swimmer:
 
 ### My Daily job :muscle:
-<img src="https://raw.githubusercontent.com/githanium/githanium/master/fix-prod.gif" width="30px">
+<img src="https://raw.githubusercontent.com/githanium/githanium/master/fix-prod.gif" width="400px">
