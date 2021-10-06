@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working with https://github.com/dvsa and https://github.com/deloitte on the Commercial Vehicle Services project
+- 🔭 I’m currently working with https://github.com/deloitte
 - 🌱 I’m currently learning Typescript, Next.js and Apache Kafka
 - 💬 Ask me about: AWS, CI/CD, Infrastructure as code Serverless and architecture
 - 📫 How to reach me: tanio.artino@gmail.com
